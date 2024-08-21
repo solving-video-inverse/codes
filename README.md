@@ -1,10 +1,10 @@
-# Accessing Video Time Deconvolution using Image Diffusion Models
+# Solving Video Inverse Problems Using Image Diffusion Models
 
 <p align="center" width="100%">
     <img src='./sample/figure_1.png' width='99%'>
 </p>
 
-Our method demonstrates robustness against various combinations of temporal and spatial degradations, achieving state-of-the-art reconstructions.
+Our method demonstrates robustness against various combinations of spatio-temporal degradations, achieving state-of-the-art reconstructions.
 
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://video-timedeconv.github.io/main/)
 
@@ -12,8 +12,8 @@ Our method demonstrates robustness against various combinations of temporal and 
 
 Diffusion model-based inverse problem solvers (DIS) enable unconditional diffusion models to solve a wide range of image inverse problems. 
 However, their application to video inverse problems involving temporal degradation remains limited. 
-In response, we present a novel approach for addressing video time deconvolution using only image-based diffusion models. 
-This innovation addresses the batch inconsistency issue in diffusion models by controlling batch-stochasticity, thereby enabling batch-consistent sampling.
+In response, we introduce an innovative video inverse solver using pre-trained image diffusion models by solving video inverse optimization within the Tweedie denoised manifold.
+We develop a batch-consistent diffusion sampling strategy to ensure temporal consistency by synchronizing stochastic noise components in image diffusion models.
 Experimental results confirm that our method demonstrates robustness against various combinations of temporal and spatial degradations, achieving state-of-the-art reconstructions.
 
 ## Download pre-trained models
@@ -24,7 +24,7 @@ This repository is based on [openai/guided-diffusion](https://github.com/openai/
 
 Download the following pre-trained model and move into a folder called `models/`.
 
-## Time Deconvolution Sampling from pre-trained models
+## Solving temporal degradations from pre-trained image diffusion models
 
 To sample from the models, you can use the `TimeDeconv.py` script.
 Here, we provide flags for sampling from the model.
