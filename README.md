@@ -1,4 +1,4 @@
-# Solving Video Inverse Problems Using Image Diffusion Models
+# Solving Video Inverse Problems Using \\ Image Diffusion Models
 
 <p align="center" width="100%">
     <img src='./sample/figure_1.png' width='99%'>
