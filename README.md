@@ -1,7 +1,7 @@
 # Solving Video Inverse Problems Using Image Diffusion Models
 
 <p align="center" width="100%">
-    <img src='./sample/figure_1.png' width='99%'>
+    <img src='./sample/main_fig.png' width='99%'>
 </p>
 
 Our method demonstrates robustness against various combinations of spatio-temporal degradations, achieving state-of-the-art reconstructions.
