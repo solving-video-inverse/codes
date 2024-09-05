@@ -44,13 +44,8 @@ Here, we provide full preprocessed numpy files used in this work.
 
 ## Citation
 
-If you find our method useful, please cite as below or leave a star to this repository.
+If you find our method useful, please cite the preprint paper or leave a star to this repository.
 
-```
-@article{
-
-}
-```
 
 > [!note]
 > This work is currently in the preprint stage, and there may be some changes to the code.
