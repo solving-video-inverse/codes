@@ -6,7 +6,7 @@
 
 Our method demonstrates robustness against various combinations of spatio-temporal degradations, achieving state-of-the-art reconstructions.
 
-[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://video-timedeconv.github.io/main/)
+[![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://solving-video-inverse.github.io/main/)
 [![arXiv](https://img.shields.io/badge/arXiv-2311.18608-b31b1b.svg)](https://arxiv.org/abs/2409.02574)
 
 ## Abstract
