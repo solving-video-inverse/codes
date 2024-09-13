@@ -45,14 +45,14 @@ Here, we provide full preprocessed numpy files used in this work.
 
 Please cite as below or leave a star to this repository if you find our method useful.
 
-'''
+```
 @article{kwon2024solving,
   title={Solving Video Inverse Problems Using Image Diffusion Models},
   author={Kwon, Taesung and Ye, Jong Chul},
   journal={arXiv preprint arXiv:2409.02574},
   year={2024}
 }
-'''
+```
 
 > [!note]
 > This work is currently in the preprint stage, and there may be some changes to the code.
