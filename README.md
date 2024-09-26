@@ -41,7 +41,7 @@ Here, we provide full preprocessed numpy files used in this work.
 
 [Preprocessed 2017 DAVIS train/val dataset](https://drive.google.com/file/d/1sP2mkf7TTc3LmIYZktNV1xifDS20WJ-7/view?usp=sharing).
 
-## Star
+## Github Stars
 
 Please leave a star to this repository if you find our method useful :)
 
