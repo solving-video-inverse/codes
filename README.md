@@ -7,7 +7,6 @@
 Our method demonstrates robustness against various combinations of spatio-temporal degradations, achieving state-of-the-art reconstructions.
 
 [![Project Website](https://img.shields.io/badge/Project-Website-blue)](https://solving-video-inverse.github.io/main/)
-[![arXiv](https://img.shields.io/badge/arXiv-2311.18608-b31b1b.svg)](https://arxiv.org/abs/2409.02574)
 
 ## Abstract
 
@@ -42,18 +41,10 @@ Here, we provide full preprocessed numpy files used in this work.
 
 [Preprocessed 2017 DAVIS train/val dataset](https://drive.google.com/file/d/1sP2mkf7TTc3LmIYZktNV1xifDS20WJ-7/view?usp=sharing).
 
-## Citation
+## Star
 
-Please cite as below or leave a star to this repository if you find our method useful.
+Please leave a star to this repository if you find our method useful :)
 
-```
-@article{kwon2024solving,
-  title={Solving Video Inverse Problems Using Image Diffusion Models},
-  author={Kwon, Taesung and Ye, Jong Chul},
-  journal={arXiv preprint arXiv:2409.02574},
-  year={2024}
-}
-```
 
 > [!note]
 > This work is currently in the preprint stage, and there may be some changes to the code.
